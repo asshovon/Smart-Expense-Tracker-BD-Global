@@ -1,0 +1,6 @@
+{
+  "name": "Smart Expense Tracker BD & Global",
+  "description": "Professional multi-currency expense tracker, financial manager & Android simulator with Bangladesh mobile banking (bKash/Nagad), global currencies, budgets, reports and Java Spring Boot code hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
